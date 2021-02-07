@@ -14,7 +14,7 @@ SECRET_KEY = '12jjck^orr$iml2!br&+7-m83xsizl_f9#q5=c38%k41px4nje'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://django-realtor-apps.herokuapp.com/','127.0.0.1']
+ALLOWED_HOSTS = ['django-realtor-apps.herokuapp.com','127.0.0.1']
 
 LOGIN_REDIRECT_URL = '/login/'
 
